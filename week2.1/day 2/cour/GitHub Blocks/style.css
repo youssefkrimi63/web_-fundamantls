@@ -12,8 +12,9 @@
 
 h1 {
     color: azure;
-    margin-top: 0;
+    margin-top: 2;
     margin-bottom: 20px;
+    
 }
 
 img.octocat {
@@ -31,7 +32,9 @@ img.octocat {
 .pink {
     background-color: salmon;
     justify-content: center;
+    
 }
+
 
 .blue {
     background-color:mediumslateblue;
